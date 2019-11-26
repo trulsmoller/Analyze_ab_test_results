@@ -13,4 +13,4 @@ The project is set up as a training exercise, which focuses on demonstrating sta
 ab_data.csv
 
 ### Results
-Analyze_ab_test_results_notebook_V2.pdf
+Analyze_ab_test_results_notebook_V2.html
